@@ -92,4 +92,4 @@ This repository contains a collection of short programs aimed at providing first
 
 41. **Cars:** Store car information in Objects with a function.
 
-Each exercise is organized into separate files within the repository. Happy coding!
+Exercises are organized within the repository. Happy coding!
