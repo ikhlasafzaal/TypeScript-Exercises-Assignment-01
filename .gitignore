@@ -1,6 +1,6 @@
 # use file to ignore and not to push on git 
 
-node_modules/
+node_modules
 
 
 
